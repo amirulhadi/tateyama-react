@@ -1,0 +1,9 @@
+.bg{
+    background-color: rgba(65, 220, 197, 1);
+    margin: 30px;
+    padding: 10px;
+    color: #FFFFFF;
+    text-align: left;
+    border: 1px solid;
+    box-shadow: 5px 10px #888888;
+}
